@@ -13,4 +13,4 @@ webseries according our choice.
 - [ ] fs and #path module to create directory and give path to excel sheet and pdf files.
 
 ## Video Link 
-[a relative link](https://www.linkedin.com/posts/abhinav-mahalley-52a009218_pephack1-puppeteer-cheerio-activity-6845769100057182208-pT3B)
+[A Video Link](https://www.linkedin.com/posts/abhinav-mahalley-52a009218_pephack1-puppeteer-cheerio-activity-6845769100057182208-pT3B)
